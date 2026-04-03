@@ -17,4 +17,4 @@ Fun Facts:-
 
 🏋️ Gym | 🎤 Singing | 🎨 Painting | 🕺 Dance
 
-🐶 Animal lover | 📺 Friends sitcom fan | ☕ Non-tea or coffee person.+
+🐶 Animal lover | 📺 Friends sitcom fan | ☕ Non-tea or coffee person.
