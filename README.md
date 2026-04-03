@@ -4,7 +4,7 @@
 
 💻 Passionate about **VLSI, Verilog, and AI-based projects**
 
-🚀 Currently working on **Smart PPE Mask,Traffic Light Controller, Vending Machine Design, and Recommendation Systems**
+🚀 Worked on **Smart PPE Mask,Traffic Light Controller, Vending Machine Design, G2 Terahertz Photodetecor, and Recommendation Systems**
 
 🛠 Tools I use: **Verilog, Python, C++, MATLAB, VS Code, GitHub**
 
