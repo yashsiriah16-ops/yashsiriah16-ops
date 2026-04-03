@@ -10,7 +10,7 @@
 
 🌱 Learning: **Digital System Design, Machine Learning, and VLSI Design**
 
-📫 Reach me: **[your.yashwork1604@gmail.com](mailto:yashwork1604@gmail.com)**
+📫 Reach me: **[yashwork1604@gmail.com](mailto:yashwork1604@gmail.com)**
 
 
 Fun Facts:-
