@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Yash 👋
 
-<!--
-**yashsiriah16-ops/yashsiriah16-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electronics & Communication Engineering student
+💻 Passionate about **VLSI, Verilog, and AI-based projects**
+🚀 Currently working on **Smart PPE Mask,Traffic Light Controller, Vending Machine Design, and Recommendation Systems**
+🛠 Tools I use: **Verilog, Python, C++, MATLAB, VS Code, GitHub**
+🌱 Learning: **Digital System Design, Machine Learning, and VLSI Design**
+📫 Reach me: **[your.yashwork1604@gmail.com](mailto:yashwork1604@gmail.com)**
 
-Here are some ideas to get you started:
+Fun Facts:-
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏋️ Gym | 🎤 Singing | 🎨 Painting | 🕺 Dance
+🐶 Animal lover | 📺 Friends sitcom fan | ☕ Non-tea or coffee person.+
